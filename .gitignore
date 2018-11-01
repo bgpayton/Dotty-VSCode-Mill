@@ -1,0 +1,6 @@
+download/
+out/
+project/
+target/
+*.db
+
